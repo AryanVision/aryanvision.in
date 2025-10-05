@@ -1,0 +1,11 @@
+{
+  "continue.models": [
+    {
+      "title": "DeepSeek",
+      "provider": "openai",
+      "model": "deepseek-coder",
+      "apiBase": "https://api.deepseek.com/v1",
+      "apiKey": "sk-2df744f3537c4e40b33a51fe795907ae"
+    }
+  ]
+}
