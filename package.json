@@ -16,7 +16,9 @@
     "@prisma/client": "5.4.2"
   },
   "devDependencies": {
-    "eslint": "8.47.0",
-    "typescript": "5.2.2"
+    "eslint": "8.57.0",
+    "typescript": "5.2.2",
+    "@eslint/config-array": "2.1.1",
+    "@eslint/object-schema": "1.1.3"
   }
 }
