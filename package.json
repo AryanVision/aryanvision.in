@@ -19,6 +19,8 @@
     "eslint": "8.57.0",
     "typescript": "5.2.2",
     "@eslint/config-array": "2.1.1",
-    "@eslint/object-schema": "1.1.3"
+    "@eslint/object-schema": "1.1.3",
+    "@types/react": "18.2.0",
+    "@types/node": "20.11.0"
   }
 }
